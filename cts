@@ -2,7 +2,7 @@
 
 # Check if a filename was provided
 if [ -z "$1" ]; then
-  echo "Usage: ./cts <filename>"
+  echo "Usage: cts <filename>"
   exit 1
 fi
 
