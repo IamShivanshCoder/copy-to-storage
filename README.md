@@ -12,4 +12,4 @@ cts [filename]
 
 ```
 ### Note !!!!
- It is a alpha version amd only works for single files not folders 
+ It is a alpha version and only works for single files not folders 
