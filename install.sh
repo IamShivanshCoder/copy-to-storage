@@ -1,4 +1,5 @@
 chmod +x cts
-mv cts ~/
-echo "alias cts='bash ~/cts'" >> ~/.bashrc
+mkdir ~/.hidden
+mv cts ~/.hidden
+echo "alias cts='bash ~/.hidden/cts'" >> ~/.bashrc
 
